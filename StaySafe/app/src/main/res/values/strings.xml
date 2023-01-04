@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StaySafe</string>
+    <string name="prefs_file">com.example.staysafe.PREFERENCE_FILE_KEY</string>
+    <string name="android_sdk_places_apikey">AIzaSyCdyEdnCHjmocwmQ5VA11ahFXkIZ6WhPpM</string>
+    <string-array name="spinner_id">
+        <item>Selecciona un botón</item>
+        <item>Botón Azul</item>
+        <item>Botón Naranja</item>
+        <item>Botón Morado</item>
+
+    </string-array>
+
+</resources>
